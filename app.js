@@ -22,3 +22,4 @@ const number = Math.random() * 10;
 const result = Math.floor(Math.sqrt(number));
 
 console.log(result);
+console.log('hello');
